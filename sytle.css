@@ -1,10 +1,11 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: url(bacground.jpg);
+    margin:0;
+    padding:0;
+    background: url(background2.jpg);
     background-size: cover;
-
 }
+
+
 
 .box {
     width: 500px;
@@ -17,6 +18,9 @@ body {
     color: #fff;
     font-family: sans-serif;
     border-radius: 10%;
+    margin-right: 30px;
+    padding-right: 20px;
+ 
 }
 
 .box img {
@@ -65,5 +69,5 @@ ul li{
 }
 
 .box li a:hover{
-    color: gray;
+    color: darkgray;
 }
